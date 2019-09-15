@@ -22,6 +22,7 @@ The most important learning expectation for me during these studies is to grasp 
 <br>
 <br><b>Ideal Job</b>
 <br>https://www.nintendo.com.au/senior-performance-insights-analyst
+
 <br>Position
 <br>This position advertised at Nintendo as Senior Performance and Insights Analyst is responsible for advising senior management with analysis of the company’s developments being in accordance to company values and integrity, “Nintendo’s DNA” (Nintendo, 2019). The analysis will be provided through reporting, data management, process automation, stakeholder management and technology improvements.
 <br>
