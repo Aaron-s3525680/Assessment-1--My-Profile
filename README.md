@@ -1,6 +1,6 @@
 # Aaron Burns   |   Assessment 1: My Profile
 
-Personal Information
+<b>Personal Information
 <br>Name: Aaron Burns
 <br>Student number: s3525680
 <br>Email address: aaron_burns3910@hotmail.com
@@ -13,7 +13,7 @@ Personal Information
 <br>Spoken languages: English (native), Japanese (elementary)
 <br>Interesting facts: Moonlights as bartender, has two exotic shorthairs and favourite sport is boxing.
 <br>
-<br>Interest in IT
+<br><b>Interest in IT
 <br>My interest in Information Technology (IT) is in its evolution and the future it is creating. I find it interesting to witness the birth of new technological advancements and is something I aspire to be a part of. I think I can trace back my interest in IT from when I was quite young and acquired a Super Nintendo Entertainment System. Being able to play an interactive role within an immersive story told from programmed information was truly inspiring. Now still being able to play video games that have progressed into absolute masterpieces with new elements of artistic interpretation is something that continuously amazes me. Although, video game development is not my only interest in IT I do believe it is what sparked it. Presently what also interests me in IT is the processing of business information. In my career I have noticed many gaps and holes in the information systems used within businesses and can see where there are possible improvements that could be made. Through these experiences of working with such information systems is what has led me to professionally skill myself in some areas such as, project and program management, specifically business process and tool development. Although I know there are limitations to my knowledge, given that the applications to my disposal are simple and only office, front end user intended. This is what has pushed me to follow this personal growth to study further into what solutions and possibilities I know are available in the world of IT.
 <br>
 The main reason I chose this Bachelor of Information Technology course at RMIT was its emphasis on coding; Java, html, C, C++, etc. Being a programmer is the ultimate goal during or after completion of this course. I was also drawn to its openness and availability through pathways and online study. By completion of the Introduction to Information Technology and Introduction to Programming units through Open Universities Australia (OUA), it presents me with the pathway to continue to the rest of the Bachelor of Information Technology. Which seems to be a rare trait but one I am very appreciative of as it allows me to ‘test the waters’ and prove myself and my study ethic for the full course. Also, working full time and with other commitments this quality fits in well with my lifestyle as it offers flexibility. Another appealing aspect was that I am very familiar with RMIT, living in Melbourne, and am aware of its sound and reputable status as an institution which I would be proud to put on my resume.
