@@ -1,9 +1,8 @@
 # Aaron Burns   |   Assessment 1: My Profile
 
-
-#Personal Information
-#Name: Aaron Burns
-#Student number: s3525680
+Personal Information
+<br>Name: Aaron Burns
+<br>Student number: s3525680
 Email address: aaron_burns3910@hotmail.com
 Student email address: s3525680@student.rmit.edu.au
 Background Information
