@@ -20,7 +20,7 @@ The main reason I chose this Bachelor of Information Technology course at RMIT w
 <br>
 The most important learning expectation for me during these studies is to grasp a more than basic concept of programming. The applications operated, the different languages’ capabilities, situational uses, and the direction programming is taking as a field of study and career. And from this, a personal understanding of how I can conceptualise my ideas using this knowledge.
 <br>
-<br>Ideal Job
+<br><b>Ideal Job</b>
 <br>https://www.nintendo.com.au/senior-performance-insights-analyst
 <br>Position
 <br>This position advertised at Nintendo as Senior Performance and Insights Analyst is responsible for advising senior management with analysis of the company’s developments being in accordance to company values and integrity, “Nintendo’s DNA” (Nintendo, 2019). The analysis will be provided through reporting, data management, process automation, stakeholder management and technology improvements.
@@ -49,7 +49,7 @@ The most important learning expectation for me during these studies is to grasp 
 <br>4.	Through research I should be able to learn of popular modelling applications for statistics and how they are used and for what purposes. This would include Tableau.
 <br>5.	Increasing my qualifications through education is what I am doing now. I am hopeful that with completion of this Bachelor of Information Technology course I will be able to land a job that I am satisfied with and will further advance my career.
 <br>
-<br>Personal Profile
+<br><b>Personal Profile</b>
 <br>16 Personalities (Myers-Briggs) Test (16Personalities, 2019)
 <br>Advocate
 <br>Mind – 40% Extraverted, 60% Introverted
@@ -74,7 +74,7 @@ The most important learning expectation for me during these studies is to grasp 
 <br>
 <br>When forming a team, I would disregard these results entirely. I believe when forming a team, these results will only portray misinformation of the individuals and not their potential that they could possibly be unaware of. Forming a team is an everchanging space and the only true test is the individuals’ commitment throughout.
 <br>
-<br>Project Idea
+<br><b>Project Idea</b>
 <br>Overview
 <br>Develop an integrative and secure database management system (DBMS) interfaced with a visually appealing and user-friendly online application, creating an interactive data management system. This is with personnel profiles in mind as the data entrants and to be implemented by government bodies for cross functional information purposes. The DBMS would require to be integrative in the way of being accessed by many different devices such as, computers and smart phones, and in the sense of the data needing to be easily entered and manipulated for extraction of needed information. It will importantly need to be secure to restrict unauthorised persons from access and require different levels of clearance. The application will need to be online based for live updating, user friendly for staff of different expertise and visually appealing for market value, staff retention and data quality assurance.
 <br>
@@ -96,7 +96,8 @@ The most important learning expectation for me during these studies is to grasp 
 <br>
 <br>Outcome
 <br>With the success of this project will come great benefits in purposeful information being provided from clean data that has maintained integrity from user input to strategic output. Outdated data will be eradicated and live, real-time information will be easily accessible. This will be presented with the applications user-friendly and visually appealing interface that can be ported to different means of conceptualisation. More to this it will untie resources that are dedicated to solving the problems that have ensued and allow for other focuses such continuous improvement. Moreover, this will greatly advance operational needs of government bodies that require such a data management system.
-<br>Bibliography
+<br>
+<br><b>Bibliography</b>
 <br>Nintendo. (2019). SENIOR PERFORMANCE & INSIGHTS ANALYST. [online] Available at: https://www.nintendo.com.au/senior-performance-insights-analyst [Accessed 15 Sep. 2019]. 
 <br>
 <br>16Personalities. (2019). Introduction | Advocate Personality (INFJ-A / INFJ-T) | 16Personalities. [online] Available at: https://www.16personalities.com/infj-personality [Accessed 15 Sep. 2019].
