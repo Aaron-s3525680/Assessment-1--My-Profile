@@ -1,140 +1,102 @@
-# Welcome to GitHub
-
-Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
-
-## Repositories
-
-Right now, we’re in your first GitHub **repository**. A repository is like a folder or storage space for your project. Your project's repository contains all its files such as code, documentation, images, and more. It also tracks every change that you—or your collaborators—make to each file, so you can always go back to previous versions of your project if you make any mistakes.
-
-This repository contains three important files: The HTML code for your first website on GitHub, the CSS stylesheet that decorates your website with colors and fonts, and the **README** file. It also contains an image folder, with one image file.
-
-## Describe your project
-
-You are currently viewing your project's **README** file. **_README_** files are like cover pages or elevator pitches for your project. They are written in plain text or [Markdown language](https://guides.github.com/features/mastering-markdown/), and usually include a paragraph describing the project, directions on how to use it, who authored it, and more.
-
-[Learn more about READMEs](https://help.github.com/en/articles/about-readmes)
-
-## Your first website
-
-**GitHub Pages** is a free and easy way to create a website using the code that lives in your GitHub repositories. You can use GitHub Pages to build a portfolio of your work, create a personal website, or share a fun project that you coded with the world. GitHub Pages is automatically enabled in this repository, but when you create new repositories in the future, the steps to launch a GitHub Pages website will be slightly different.
-
-[Learn more about GitHub Pages](https://pages.github.com/)
-
-## Rename this repository to publish your site
-
-We've already set-up a GitHub Pages website for you, based on your personal username. This repository is called `hello-world`, but you'll rename it to: `username.github.io`, to match your website's URL address. If the first part of the repository doesn’t exactly match your username, it won’t work, so make sure to get it right.
-
-Let's get started! To update this repository’s name, click the `Settings` tab on this page. This will take you to your repository’s settings page. 
-
-![repo-settings-image](https://user-images.githubusercontent.com/18093541/63130482-99e6ad80-bf88-11e9-99a1-d3cf1660b47e.png)
-
-Under the **Repository Name** heading, type: `username.github.io`, where username is your username on GitHub. Then click **Rename**—and that’s it. When you’re done, click your repository name or browser’s back button to return to this page.
-
-<img width="1039" alt="rename_screenshot" src="https://user-images.githubusercontent.com/18093541/63129466-956cc580-bf85-11e9-92d8-b028dd483fa5.png">
-
-Once you click **Rename**, your website will automatically be published at: https://your-username.github.io/. The HTML file—called `index.html`—is rendered as the home page and you'll be making changes to this file in the next step.
-
-Congratulations! You just launched your first GitHub Pages website. It's now live to share with the entire world
-
-## Making your first edit
-
-When you make any change to any file in your project, you’re making a **commit**. If you fix a typo, update a filename, or edit your code, you can add it to GitHub as a commit. Your commits represent your project’s entire history—and they’re all saved in your project’s repository.
-
-With each commit, you have the opportunity to write a **commit message**, a short, meaningful comment describing the change you’re making to a file. So you always know exactly what changed, no matter when you return to a commit.
-
-## Practice: Customize your first GitHub website by writing HTML code
-
-Want to edit the site you just published? Let’s practice commits by introducing yourself in your `index.html` file. Don’t worry about getting it right the first time—you can always build on your introduction later.
-
-Let’s start with this template:
-
-```
-<p>Hello World! I’m [username]. This is my website!</p>
-```
-
-To add your introduction, copy our template and click the edit pencil icon at the top right hand corner of the `index.html` file.
-
-<img width="997" alt="edit-this-file" src="https://user-images.githubusercontent.com/18093541/63131820-0794d880-bf8d-11e9-8b3d-c096355e9389.png">
-
-
-Delete this placeholder line:
-
-```
-<p>Welcome to your first GitHub Pages website!</p>
-```
-
-Then, paste the template to line 15 and fill in the blanks.
-
-<img width="1032" alt="edit-githuboctocat-index" src="https://user-images.githubusercontent.com/18093541/63132339-c3a2d300-bf8e-11e9-8222-59c2702f6c42.png">
-
-
-When you’re done, scroll down to the `Commit changes` section near the bottom of the edit page. Add a short message explaining your change, like "Add my introduction", then click `Commit changes`.
-
-
-<img width="1030" alt="add-my-username" src="https://user-images.githubusercontent.com/18093541/63131801-efbd5480-bf8c-11e9-9806-89273f027d16.png">
-
-Once you click `Commit changes`, your changes will automatically be published on your GitHub Pages website. Refresh the page to see your new changes live in action.
-
-:tada: You just made your first commit! :tada:
-
-## Work with GitHub on your computer using GitHub Desktop
-
-**GitHub Desktop** is a free app from GitHub for Windows and Mac that allows you to easily work with your GitHub repositories from your computer. You just saw how you can commit to a repository from GitHub.com, but most developers do the majority of their work from their computer (locally) before pushing it up to GitHub. So let’s try that out!
-
-[Download GitHub Desktop](https://desktop.github.com/)
-
-## Practice: Use GitHub Desktop and an editor to make a change from your computer
-
-Start by downloading GitHub Desktop if you haven’t already done so, and install it on your computer. Go through the GitHub Desktop onboarding steps, and when you get to the “Let’s get started” screen, go ahead and choose the repository you were just working with on GitHub.com, and click “Clone.”
-
-### Using an editor to make changes
-
-Let’s make sure you have a text editor on your computer - this is what you'll use to actually make changes to your files. If you already know you have an editor, then skip to the next step. Otherwise, download and install either [Visual Studio Code](https://code.visualstudio.com/) or [Atom](https://atom.io/) and restart GitHub Desktop before proceeding to the next step.
-
-Let’s make a change to your GitHub Pages site, just like you did on GitHub.com, except this time we’re going to do it all from your computer. From GitHub Desktop, click the “Open in…” button in the middle of the screen to “open the repository in your external editor” that you just downloaded. 
-
-![Open-in-editor](https://user-images.githubusercontent.com/721500/63188833-82fb9600-c030-11e9-8777-a67c1713d59f.png)
-
-In the left sidebar, click the `index.html` file to open it, and go ahead and add another line. Maybe, “Building websites is fun! You should try it too!” or whatever you want to add. 
-
-![Make-changes](https://user-images.githubusercontent.com/721500/63188832-82fb9600-c030-11e9-9f7b-7d15385a16f0.png)
-
-Now switch back to GitHub Desktop, and you should see the change you made.
-
-![View-changes](https://user-images.githubusercontent.com/721500/63188835-82fb9600-c030-11e9-8980-43a8231ca23a.png)
-
-### Commit your changes
-
-Now you can commit your changes by typing a message in the `Summary` box at the bottom left, and then click the blue `Commit` button below that.
-
-![Commit-changes](https://user-images.githubusercontent.com/721500/63188831-8262ff80-c030-11e9-809a-f87d8b544935.png)
-
-### Push your changes to GitHub.com
-
-One of the great things about working on things on your computer is that you get to control when other people see them. Now let’s push your commit to GitHub.com as well so it’s saved there and you can publish it to your site. Click the “Push origin” button to push your commit to GitHub.com. 
-
-![Push-to-GitHub](https://user-images.githubusercontent.com/721500/63188834-82fb9600-c030-11e9-9d8e-6c6ed6d48504.png)
-
-Now click the “View on GitHub” button to get back to your repository’s page on GitHub.com.
-
-![View-on-GitHub](https://user-images.githubusercontent.com/721500/63188836-82fb9600-c030-11e9-9bc5-cf304398500d.png)
-
-### Deploy and see your changes live on your GitHub Pages website!
-
-Once you commit your changes, they are automatically published on your GitHub Pages website. Refresh your browser to see it live!
-
-### Celebrate!
-
-Hooray! Now you have your repository linked between your computer and GitHub.com. In the future, you can use GitHub Desktop to push any changes you decide to make from your computer.
-
-## Extra Credit: Keep on building!
-
-Change the placeholder Octocat gif on your GitHub Pages website by [creating your own personal Octocat emoji](https://myoctocat.com/build-your-octocat/) or [choose a different Octocat gif from our logo library here](https://octodex.github.com/). Add that image to line 12 of your `index.html` file, in place of the `<img src=` link.
-
-Want to add even more code and fun styles to your GitHub Pages website? [Follow these instructions](https://github.com/github/personal-website) to build a fully-fledged static website.
-
-![octocat](./images/create-octocat.png)
-
-## Everything you need to know about GitHub
-
-Getting started is the hardest part. If there’s anything you’d like to know as you get started with GitHub, try searching [GitHub Help](https://help.github.com). Our documentation has tutorials on everything from changing your repository settings to configuring GitHub from your command line.
+# Aaron Burns   |   Assessment 1: My Profile
+
+
+Personal Information
+Name: Aaron Burns
+Student number: s3525680
+Email address: aaron_burns3910@hotmail.com
+Student email address: s3525680@student.rmit.edu.au
+Background Information
+Nationality: Australian
+Occupation: Public servant (Program management)
+Education: Bachelor of Information Technology (first year) (RMIT), Diploma of Business (Open Training), Certificate III in Business (MEGT)
+Spoken languages: English (native), Japanese (elementary)
+Interesting facts: Moonlights as bartender, has two exotic shorthairs and favourite sport is boxing.
+Interest in IT
+My interest in Information Technology (IT) is in its evolution and the future it is creating. I find it interesting to witness the birth of new technological advancements and is something I aspire to be a part of. I think I can trace back my interest in IT from when I was quite young and acquired a Super Nintendo Entertainment System. Being able to play an interactive role within an immersive story told from programmed information was truly inspiring. Now still being able to play video games that have progressed into absolute masterpieces with new elements of artistic interpretation is something that continuously amazes me. Although, video game development is not my only interest in IT I do believe it is what sparked it. Presently what also interests me in IT is the processing of business information. In my career I have noticed many gaps and holes in the information systems used within businesses and can see where there are possible improvements that could be made. Through these experiences of working with such information systems is what has led me to professionally skill myself in some areas such as, project and program management, specifically business process and tool development. Although I know there are limitations to my knowledge, given that the applications to my disposal are simple and only office, front end user intended. This is what has pushed me to follow this personal growth to study further into what solutions and possibilities I know are available in the world of IT.
+
+The main reason I chose this Bachelor of Information Technology course at RMIT was its emphasis on coding; Java, html, C, C++, etc. Being a programmer is the ultimate goal during or after completion of this course. I was also drawn to its openness and availability through pathways and online study. By completion of the Introduction to Information Technology and Introduction to Programming units through Open Universities Australia (OUA), it presents me with the pathway to continue to the rest of the Bachelor of Information Technology. Which seems to be a rare trait but one I am very appreciative of as it allows me to ‘test the waters’ and prove myself and my study ethic for the full course. Also, working full time and with other commitments this quality fits in well with my lifestyle as it offers flexibility. Another appealing aspect was that I am very familiar with RMIT, living in Melbourne, and am aware of its sound and reputable status as an institution which I would be proud to put on my resume.
+
+The most important learning expectation for me during these studies is to grasp a more than basic concept of programming. The applications operated, the different languages’ capabilities, situational uses, and the direction programming is taking as a field of study and career. And from this, a personal understanding of how I can conceptualise my ideas using this knowledge.
+Ideal Job
+https://www.nintendo.com.au/senior-performance-insights-analyst
+Position
+This position advertised at Nintendo as Senior Performance and Insights Analyst is responsible for advising senior management with analysis of the company’s developments being in accordance to company values and integrity, “Nintendo’s DNA” (Nintendo, 2019). The analysis will be provided through reporting, data management, process automation, stakeholder management and technology improvements.
+
+Appeal
+Working for a game development company has been my dream since I was a child. Besides this, working as a senior in an IT space that is open for my analytical thinking, creativity and provides the challenges to keep me stimulated and motivated is the complete and ideal position for me. I am yet to find the opportunity to utilise my analytical thinking to its fullest and at times feel I just have more to offer. Being a senior position as well grants me the ability to take leadership in my ideas and bring my creative nature to fruition. Meeting with challenges such as ‘how can I make this work?’ is what I strive on in the workplace and as this position details the building of models, reporting analysis to advise management and automate processes I think will deliver great mental stimulation for me to feel achievement. The position also has programming in the form of visualising data using the Tableau application and the SQL programming language to do so. This would fulfil my goal of being a programmer. Moreover, Nintendo is a globally recognised company that would make me pleased to work for and notably is connected to Japan, which I am especially interested in. Also knowing that I played some part in the development of some of the legacies of my childhood favourite video game series would just be the overly rewarding cherry on top.
+
+Requirements
+1.	Analytics and data visualisation experience
+2.	Advanced IT skills, especially Tableau and SQL (minimum 3 years) and Microsoft Excel
+3.	Strong communication skills across all levels
+4.	Build models for statistics
+5.	Relevant tertiary education would most likely be ideal
+
+Current Requirements Met
+1.	Data visualisation is something I have extensively skilled myself in with the building of data management processes emphasising on quality control and data validation to improve interpretation. Along with this, understanding how data can be explained with meaningful statistics for beneficial analysis and throughput for strategic decision making.
+2.	Microsoft Excel has been my main medium for the building blocks of creating tools aligned to process development. I am very comfortable to claim that my skills are advanced and believe I am able to manipulate Excel’s functionalities to achieve beyond desired results for automation of data management and information gathering. However, I have little to no experience in SQL and Tableau other than understanding SQL is a programming language designed for data management and Tableau is a popular application for visualising the data. Given the position advertisement requires 3 years of experience with SQL and Tableau, this is an area I would need to expand in.
+3.	In my career there has been many opportunities for my communication skills to flourish and have continuously matured, from presenting business concepts in meeting room settings with all staff levels with aid of projected flow charts and process maps, to sitting one on one with senior management to brainstorm ideas for arising problems and issues. Stating this, I am quite confident with my interpersonal skills and ability to communicate with cross functional teams and all levels of staff. Yet I do believe that communications skills are something that can continue to grow and do wish to further prosper these skills.
+4.	Building models for statistics using mathematical solutions is something I am very familiar with but is limited to using mostly Microsoft Excel. In this area is where my talent of having a high attention to detail is greatly demonstrated, by noting characteristics of data that could easily be missed because of being unconventional, resulting from systemic issues or would fall under an anomaly. As mentioned, this is limited to Microsoft Excel and I would like to seek other applications and methods that are available for possibly better modelling.
+5.	While the position advertisement does not state that a tertiary education is required, I am sure this would be desired with the successful candidate. This brings me to another reason I am taking this course and that is to further advance my career and more to a field I am passionate about.
+
+Obtain Requirements Plan
+1.	Though I do have a proven background in analytics and data visualisation this could be further strengthened by seeking employment in a position that more relevant than my current experience to provide as evidence of my relevant skill set.
+2.	Gaining experience through SQL and Tableau may be difficult to obtain professionally but through self-teaching and possibly through workplace training I should be able to gather a general concept. This should include the SQL languages’ syntax and methods, and Tableau user interface and its functionalities.
+3.	Communication skills I believe will naturally improve as I gain more experience in a working environment throughout my career and now more so through my education.
+4.	Through research I should be able to learn of popular modelling applications for statistics and how they are used and for what purposes. This would include Tableau.
+5.	Increasing my qualifications through education is what I am doing now. I am hopeful that with completion of this Bachelor of Information Technology course I will be able to land a job that I am satisfied with and will further advance my career.
+Personal Profile
+16 Personalities (Myers-Briggs) Test (16Personalities, 2019)
+Advocate
+Mind – 40% Extraverted, 60% Introverted
+Energy – 63% Intuitive, 37% Observant
+Nature – 26% Thinking, 74% Feeling
+Tactics – 71% Judging, 29% Prospecting
+Identity – 74% Assertive, 26% Turbulent
+
+Education Planner (Learning Style) Test (Educationplanner.org, 2019)
+Tactile
+25% Auditory
+30% Visual
+45% Tactile
+
+Test My Creativity (Creativity) Test (Testmycreativity.com, 2019)
+62.95 (typical 63.3)
+Highest score in Complexity (double typical) - The ability to carry large quantities of information and be able to manipulate and manage the relationships between such information.
+
+The results of these test do not really mean much for me, I am not surprised with any of the results they seem to be vaguely accurate. I do not have much esteem for psychology tests, although I have answered them truthfully, how I will act will be dependent on many factors of a given situation.
+
+I do not think these results will have any influence on my behaviour in a team. I have maintained success in team environments in the past with my normal behaviour. I act on reaching the common goal of the team with the best capabilities I have to provide and nothing more to it. Further to this I will remain adaptable accordingly to what the team needs to succeed.
+
+When forming a team, I would disregard these results entirely. I believe when forming a team, these results will only portray misinformation of the individuals and not their potential that they could possibly be unaware of. Forming a team is an everchanging space and the only true test is the individuals’ commitment throughout.
+Project Idea
+Overview
+Develop an integrative and secure database management system (DBMS) interfaced with a visually appealing and user-friendly online application, creating an interactive data management system. This is with personnel profiles in mind as the data entrants and to be implemented by government bodies for cross functional information purposes. The DBMS would require to be integrative in the way of being accessed by many different devices such as, computers and smart phones, and in the sense of the data needing to be easily entered and manipulated for extraction of needed information. It will importantly need to be secure to restrict unauthorised persons from access and require different levels of clearance. The application will need to be online based for live updating, user friendly for staff of different expertise and visually appealing for market value, staff retention and data quality assurance.
+
+Motivation
+The motivation for this project comes from my personal experience of dealing with DBMSs in the workplace and noticing their limitations to business needs. I have identified countless operational downfalls that drastically hurt the health of the business that seem to be unfathomable given what technology is available. With this DBMS and accompanied application in place such critical errors of losing files, lack of information, out of date information and informational inconsistencies would be kept minimal with human errors drastically decreased. Opening up for resources to change focuses from solving problems to implementing improvements.
+
+Description
+Database Management System
+The database management system (DBMS) will first and foremost be held with security as its number one priority. This will be assured with multi-level security measures including password entry, submission of user declaration, and senior management authority. As this will be for the management of personnel files to potentially high-profile individuals any breach of security could have severe consequences. The DBMS must be integrative to ensure the data input is the most up-to-date at any given time as live information could be required in an instant. This would mean that data entry will be required from different kinds of devices at different times and at any location and the DBSM will have to be accessible to store the data.
+Interface Application
+The interface application will be for the front-end users and will follow the same multi-level security measures. This application will be online based for ease of software maintenance and updates as well as real-time interaction with the DBMS. It will be required to be visually appealing to add to a marketing value and to be more captivating to the staff users. This will assure that concentration to data integrity is kept to high standard as well as being pleasing to work with. User-friendliness will be high priority of the application to allow for business needs being met. The data entry sequences will be developed with quality controls and measures to uphold validation and conditions. This will assist in eliminating human errors and provide clean and purposeful data. Allowing for information management to be at a ‘click of a button’ for operational purposes.
+Together the pair will offer data management system that can enter, store, manipulate and extract data for business means.
+
+Tools and Technologies
+The application will need to be accessible and compatible from portable terminals such as tablets and laptops, office desktops and even smartphones. This means that adaptable interfaces will be required dependent on the accessing terminal. The technology will also require a consensual programming language for the DBMS and the online based application. It is recommended that SQL be used for the DBMS and Java for the online application.
+
+Skills Required
+Programmers for each, the DBMS and the application will be required and support staff for the initiation of the product. The programmers will be required with SQL knowledge and another set of programmers with Java knowledge. Support staff will be required for any general troubleshooting of the application during its start up with users. Finding these skills may feasible through recruitment agencies or through advertising with online job search agencies.
+
+Outcome
+With the success of this project will come great benefits in purposeful information being provided from clean data that has maintained integrity from user input to strategic output. Outdated data will be eradicated and live, real-time information will be easily accessible. This will be presented with the applications user-friendly and visually appealing interface that can be ported to different means of conceptualisation. More to this it will untie resources that are dedicated to solving the problems that have ensued and allow for other focuses such continuous improvement. Moreover, this will greatly advance operational needs of government bodies that require such a data management system.
+Bibliography
+Nintendo. (2019). SENIOR PERFORMANCE & INSIGHTS ANALYST. [online] Available at: https://www.nintendo.com.au/senior-performance-insights-analyst [Accessed 15 Sep. 2019]. 
+
+16Personalities. (2019). Introduction | Advocate Personality (INFJ-A / INFJ-T) | 16Personalities. [online] Available at: https://www.16personalities.com/infj-personality [Accessed 15 Sep. 2019].
+
+Educationplanner.org. (2019). What's Your Learning Style? 20 Questions. [online] Available at: http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml?event=results&A=5&V=6&T=9 [Accessed 15 Sep. 2019].
+
+Testmycreativity.com. (2019). Free online creativity test - TestMyCreativity. [online] Available at: http://www.testmycreativity.com/ [Accessed 15 Sep. 2019]
